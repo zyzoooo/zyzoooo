@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 Currently learning: **HTML, C, PHP, Java, Typescript**
 
