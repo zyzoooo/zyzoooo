@@ -1,9 +1,12 @@
-## Hey 👋
+## Hey there! 👋
 
-Currently learning: **HTML, C, PHP, Java, Typescript**
+Currently learning: 
 
-## Lua - 2022/09/10
+**HTML, C, PHP, Java, Typescript**
 
-## Python - 2023/11/13
+Proficient in:
 
-## C++ - 2024/06/13
+## Luau (*Since September of 2022*)
+
+## Python (*Since November of 2023*)
+
