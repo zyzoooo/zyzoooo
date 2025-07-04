@@ -5,7 +5,8 @@ Currently learning:
 **HTML, C, PHP, Java, Typescript**
 
 # Proficient in:
-## Luau (*Since September of 2022*)
+## Luau (*Since Late 2022*)
 
-## Python (*Since November of 2023*)
+## Python (*Since Late 2023*)
 
+## JavaScript (*Since Early 2025*)
