@@ -1,8 +1,5 @@
 ## Hey there! 👋
 
-Currently learning: 
-
-**HTML, C, PHP, Java, Typescript**
 
 # Proficient in:
 ## Luau (*Since Late 2022*)
