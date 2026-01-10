@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%26+JavaScript+Specialized" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Location-Canada-purple?style=flat-square&logo=canada" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Earth-purple?style=flat-square&logo=canada" alt="Location" />
     <img src="https://img.shields.io/badge/Focus-Backend_Development-blue?-success?style=flat-square%22%20alt=%22Focus" />
   </p>
 
