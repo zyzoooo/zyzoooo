@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&fontSize=48&lines=Hello,+World!" />
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%26+JavaScript+Specialized" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Developer;Python+%26+JavaScript+Specialized" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/Specialty-Python%20&%20JavaScript-cyan?style=flat-square%22%20alt=%22Focus" alt="Location" />
