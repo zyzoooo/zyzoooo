@@ -11,7 +11,6 @@
 
   <br />
   <a href="https://discordapp.com/users/785327794632392765">
-    <img src="https://img.shields.io/badge/Discord-@zyzo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
   <br />
